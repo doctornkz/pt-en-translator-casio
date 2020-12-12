@@ -2,10 +2,11 @@
 Extremely small and simple PT > EN transaltor for science Casio FX-CG50 calculator
 
 ## Installation:
-Put `tradutor.py` file to CASIO internal directory. 
+Put `tradutor.py` file to CASIO internal directory. Interface too slow, it takes ~10 seconds.
 
 ## Usage:
-Run application from Python Casio runtime (latest firmware is needed)
+Run application from Python Casio runtime (latest firmware is needed). It takes time.
+
 ![File](demo/1.jpg "File")
 ![File](demo/2.jpg "First run")
 ![File](demo/3.jpg "Example")
