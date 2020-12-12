@@ -1,3 +1,5 @@
-demo
-README.md
-tradutor.py
+converter.py
+English-Portuguese.tab
+Portuguese-English.tab
+pt_en.json
+validator.py
