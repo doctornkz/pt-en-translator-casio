@@ -1,11 +1,11 @@
-# What is it?
+## What is it?
 Extremely small and simple PT > EN transaltor for science Casio FX-CG50 calculator
 
-# Installation:
+## Installation:
 Put `tradutor.py` file to CASIO internal directory. 
 
-# Usage:
+## Usage:
 Run application from Python Casio runtime (latest firmware is needed)
 
-# Thanks:
+## Thanks:
 I used kindle dictionary from https://github.com/amferraz/kindle-dict-en-pt, thanks Cacovsky!
